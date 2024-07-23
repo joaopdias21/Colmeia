@@ -10,7 +10,8 @@ Após abrir a pasta no código VS, na opção "View - Terminal" ou teclando 'CTR
 
 Após clonar o projeto, se você não tiver o cypress instalado na maquina, no terminal digite "npm install cypress --save-dev" e espere instalar o cypress.
 
-Após instalado o cypress, basta dar o comando "npx cypress open", que vai abrir a interface gráfica do cypress em modo interativo. Após o comando deve aparecer essa tela: image, clicando em E2E Testing, você escolhe o navegador que deseja realizar o teste (OS TESTES FORAM REALIZADOS NO NAVEGADOR CHROME). Após escolher o navegador de sua preferência, você abrirá os arquivos de teste para realizar a automação, com isso, basta clicar no arquivo que deseja rodar a automação, que irá rodar.
+Após instalado o cypress, basta dar o comando "npx cypress open", que vai abrir a interface gráfica do cypress em modo interativo. Após o comando deve aparecer essa tela: ![image](https://github.com/user-attachments/assets/16709a09-f649-4577-92f0-0a8d4ad13c96)
+, clicando em E2E Testing, você escolhe o navegador que deseja realizar o teste (OS TESTES FORAM REALIZADOS NO NAVEGADOR CHROME). Após escolher o navegador de sua preferência, você abrirá os arquivos de teste para realizar a automação, com isso, basta clicar no arquivo que deseja rodar a automação, que irá rodar.
 
 OBS: Caso ao abrir o cypress e não encontrar os arquivos de teste:
 
