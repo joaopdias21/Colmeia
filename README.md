@@ -27,4 +27,4 @@ Após aparecer a pasta, basta mover os arquivos de teste para este caminho cypre
 
 OBS:::: Não é recomendado mover a pasta para a pasta 1-getting-started, somente os arquivos dentro da pasta para os testes rodarem
 
-Além disso, você pode acessar o vídeo através do drive mostrando o passo a passo: https://drive.google.com/file/d/1BTR0DEuzf-aw5LRQ-cNbJeo1tiubU3ur/view?usp=sharing
+Além disso, você pode acessar o vídeo através do drive mostrando o passo a passo: https://drive.google.com/file/d/1HP7Ks-VsRznWl8eGCZjt3xxBmIm8TNEx/view?usp=sharing
